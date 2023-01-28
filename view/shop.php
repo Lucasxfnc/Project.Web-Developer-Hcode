@@ -90,7 +90,7 @@
 
 	<div id="mais-buscados" class="container">
 		
-		<div class="row text-center title-default-roxo" style="height: 120px;">
+		<div class="row text-center title-default-roxo" style="height: 125px;">
 			<h2>os mais buscados</h2>
 			<hr>	
 		</div>

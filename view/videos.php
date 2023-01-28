@@ -34,7 +34,7 @@
 
 	</div>
 
-	<div id="news" class="container" style="top: 45px;">
+	<div id="news" class="container" style="top: 50px;">
 		
 		<div class="row text-center">
 			<h2>Latest News</h2>

@@ -38,7 +38,7 @@ exit;
 			<div id="menu-mobile" class="visible-xs">
 				
 				<ul class="list-unstyled">
-					<li><a href="videos.html">Videos</a></li>
+					<li><a href="#">Videos</a></li>
 					<li><a href="#">Tickets</a></li>
 					<li><a href="#">News</a></li>
 					<li><a href="#">Schedule</a></li>
